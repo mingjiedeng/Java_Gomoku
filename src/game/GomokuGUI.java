@@ -84,7 +84,7 @@ public class GomokuGUI extends Application {
 			}
 		});
 		root.getChildren().add(canvas);
-		primaryStage.setTitle("Game: Gomoku/Gobang/Five_In_Row");
+		primaryStage.setTitle("Game: Gomoku / Gobang / Five_In_A_Row");
 		primaryStage.setScene(new Scene(root));
 		primaryStage.show();		
 	}
