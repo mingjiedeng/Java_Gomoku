@@ -5,7 +5,7 @@
 This game was developed with Java and contains three main components:
 
 - A smart [AI](src/game/AI.java) player built by using minimax search algorithm with Alpha-beta pruning and optimization with heuristic approach to finding next better moves for game tree exploration.
-- A clear and concise [Gomoko](src/game/Gomoku.java) game class implements all the game rules and data storage.
+- A clear and concise [Gomoku](src/game/Gomoku.java) game class implements all the game rules and data storage.
 - A clean [GUI](src/game/GomokuGUI.java) built with JavaFX.
 
 ![Gomoku](resources/gomoku.png)
